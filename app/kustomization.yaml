@@ -3,4 +3,5 @@ kind: Kustomization
 resources:
   - database.yaml
   - frontend.yaml
-  - calico-network-policy.yaml
+  - networkpolicy.yaml
+  # - calico-network-policy.yaml
