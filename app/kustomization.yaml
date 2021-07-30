@@ -4,4 +4,4 @@ resources:
   - database.yaml
   - frontend.yaml
   - networkpolicy.yaml
-  - calico-network-policy.yaml
+#   - calico-network-policy.yaml
